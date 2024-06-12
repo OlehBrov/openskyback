@@ -58,7 +58,7 @@ app.get('/pay', (req, res) => {
         description: "description text",
         order_id:orderId,
         version: '3',
-        server_url: 'https://r3ms7gn8-3000.euw.devtunnels.ms/verify',
+        server_url: 'https://openskyback.onrender.com/verify',
         result_url: 'https://open-sky-2f780b.webflow.io'
     };
 
